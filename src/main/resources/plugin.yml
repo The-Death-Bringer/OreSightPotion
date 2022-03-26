@@ -1,0 +1,5 @@
+name: OreSightPotion
+version: '${version}'
+main: me.dthb.osp.OreSightPotion
+api-version: 1.18
+authors: [ DeathBringer ]

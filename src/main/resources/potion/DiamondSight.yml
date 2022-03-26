@@ -1,0 +1,9 @@
+name: "<blue>Diamond Sight"
+glow-color: "blue"
+potion-color: "#000088"
+materials:
+  - "DIAMOND_ORE"
+  - "DEEPSLATE_DIAMOND_ORE"
+ingredient: "DIAMOND_BLOCK"
+base-potion: "MUNDANE"
+duration: 50
